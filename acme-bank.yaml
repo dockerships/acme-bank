@@ -1098,6 +1098,7 @@ security:
 x-ibm-configuration:
   testable: true
   enforced: true
+  gateway: datapower-gateway
   cors:
     enabled: true
   catalogs:
